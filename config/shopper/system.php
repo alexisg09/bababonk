@@ -176,14 +176,14 @@ return [
              *
              * Create this disk under the `filesystems.php` config file if not exist.
              */
-            'avatars' => 'avatars',
+            'avatars' => 'public',
 
             /*
              * Uploads folders uploads files.
              *
              * Create this disk under the filesystems.php config file if not exist.
              */
-            'uploads' => 'uploads',
+            'uploads' => 'public',
         ],
 
     ],
